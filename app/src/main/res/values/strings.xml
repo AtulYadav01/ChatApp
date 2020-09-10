@@ -3,4 +3,9 @@
     <string name="password">Password</string>
     <string name="e_mail_address">E-mail Address</string>
     <string name="signup_login">SignUp/Login</string>
+    <string name="name">Name</string>
+    <string name="button">Button</string>
+    <string name="send">Send</string>
+    <string name="type_your_message_here">Type Your Message Here</string>
+    <string name="enter_message">Enter Message</string>
 </resources>
