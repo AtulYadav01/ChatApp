@@ -18,7 +18,7 @@ I made this app for practice purpose.
 ### Built With
 
 * [Kotlin](https://kotlinlang.org/)
-* [Firebase]https://firebase.google.com)
+* [Firebase](https://firebase.google.com)
 * [XML](www.xml.com)
 * [Android Studio](https://developer.android.com/studio?hl=es)
 
