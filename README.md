@@ -1,5 +1,5 @@
 
-<img src="app/QuizApp_HomePage.jpg" width="200">
+<img src="app/ChatApp.jpg" width="400">
 
 
 
